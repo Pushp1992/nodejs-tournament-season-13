@@ -1,6 +1,6 @@
-#  Node js Hiring Tournament - Season 12
+#  Node js Hiring Tournament - Season 13
 
-This is a Node js Hiring Tournament - Season 12. 
+This is a Node js Hiring Tournament - Season 13. 
 
 ## Required Prerequisites
 
