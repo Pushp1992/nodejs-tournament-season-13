@@ -1,0 +1,24 @@
+
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "userList": [
+            {
+                "id": 1,
+                "name": "pushp",
+                "email": "pushp@gmail.com",
+                "created_at": "20/12/2020",
+                "subscription_type": "premium",
+                "validityt_till": "12/11/2021"
+            },
+            {
+                "id": 2,
+                "name": "rahul",
+                "email": "rahul@gmail.com",
+                "created_at": "21/12/2020",
+                "subscription_type": "standard"
+            }
+        ]
+    }
+ }
